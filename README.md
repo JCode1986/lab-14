@@ -4,8 +4,8 @@ Number and name of feature: Database Normalization
 
 Estimate of time needed to complete: 30 minutes
 
-Start time: 1215pm
+Start time: 21:30
 
-Finish time: 
+Finish time: 22:00
 
-Actual time needed to complete: _____
+Actual time needed to complete: 30 minutes
